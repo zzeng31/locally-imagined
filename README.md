@@ -2,9 +2,11 @@
 
 Locally Imagine frontend
 
+
 ## Description
 
 Locally Imagine is an online marketplace for artists to post artwork for sale. We build this project for artists who wish to browse and trade local art but don’t want to go to physical galleries. Locally Imagined both complements and evolves the status quo of the local art trade by enabling online transactions of local art.
+
 
 ## Features
 
@@ -14,6 +16,9 @@ Locally Imagine is an online marketplace for artists to post artwork for sale. W
 4. Users can customize their profile with an avatar and bio.
 5. Users can edit/delete their artwork.
 6. Users can view the buyers' contact information if they are interested in their artworks.
+
+## Try the demo here
+[Demo](https://locallyimagined.netlify.app)
 
 ## Script
 
