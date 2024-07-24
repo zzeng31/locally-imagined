@@ -18,7 +18,7 @@ Locally Imagine is an online marketplace for artists to post artwork for sale. W
 6. Users can view the buyers' contact information if they are interested in their artworks.
 
 ## Try the demo here
-[Demo](https://locallyimagined.netlify.app)
+[Demo](https://locallyimagined.com/)
 
 ## Script
 
